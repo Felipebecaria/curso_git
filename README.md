@@ -1,2 +1,4 @@
 # curso_git
-repositório 
+repositório git .
+
+2022
